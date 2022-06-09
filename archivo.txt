@@ -1,0 +1,2 @@
+Este es un archivo txt, aprendiendo git desde youtube.
+cambio de prueba.
